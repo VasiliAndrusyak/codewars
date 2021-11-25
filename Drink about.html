@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Drink about</title>
+</head>
+<body>
+<script>
+
+
+    function peopleWithAgeDrink(old) {
+        if (old < 14){
+            return "drink toddy";
+        }else if (old >=14 && old <= 17){
+            return "drink coke";
+        }
+        else if (old >17 && old <= 20 ){
+            return "drink beer";
+        }else if (old >=21){
+            return "drink whisky";
+        }
+
+    };
+        console.log(peopleWithAgeDrink(21));
+
+</script>
+</body>
+</html>
+
+
+<!--
+13 &ndash;&gt; "drink toddy"
+17 &ndash;&gt; "drink coke"
+18 &ndash;&gt; "drink beer"
+20 &ndash;&gt; "drink beer"
+30 &ndash;&gt; "drink whisky"
+-->
