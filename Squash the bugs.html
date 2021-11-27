@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Squash the bugs</title>
+</head>
+<body bgcolor="#2b2b2b">
+<script>
+
+
+    function findLongest(str) {
+        let longest = 0;
+        let spl = str.split(' ');
+        // console.log(spl);
+        for (let i = 0; i < spl.length; i++) {
+            if (spl[i].length > longest) {
+                longest = spl[i].length;
+            }
+        }
+        return longest;
+    }
+
+    // findLongest("The quick white fox jumped around the massive dog");
+    console.log(findLongest("The quick white fox jumped around the massive dog"));
+
+</script>
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Subtract the sum</title>
+</head>
+<body bgcolor="#2b2b2b">
+<script>
+
+    let fruits = ['kiwi', 'pear', 'kiwi', 'banana', 'melon', 'banana', 'melon', 'pineapple',
+        'apple', 'pineapple', 'cucumber',
+        'pineapple', 'cucumber', 'orange', 'grape', 'orange', 'grape', 'apple',
+        'grape', 'cherry', 'pear', 'cherry', 'pear', 'kiwi', 'banana', 'kiwi', 'apple', 'melon', 'banana', 'melon',
+        'pineapple',
+        'melon', 'pineapple', 'cucumber', 'orange', 'apple',];
+
+    // console.log(fruits);
+
+/*     let y;
+     function f(x) {
+         for (let i = 0; i < fruits.length; i++) {
+             y = (fruits[x]);
+         }
+         console.log(y);
+     }
+     f(5);
+     f(6);
+     f(7);*/
+
+
+    function SubtractSum(n) {
+
+        let y;
+        for (let i = 0; i < fruits.length; i++) {
+            if (n >= 10 && n < 10000) {
+                y = fruits[n.toString().split('').map(Number).reduce((sum, current) => sum + current)];
+            } else  if(n < 10 ){
+                y =  fruits[n] ;
+            }
+        }
+         console.log(y);
+        return y;
+    }
+
+    SubtractSum(5);
+    SubtractSum(11);
+    SubtractSum(3456);
+
+
+   /* function f(n) {
+        return 'apple';
+    }
+
+    console.log(f(1));*/
+
+
+</script>
+</body>
+</html>
+
+<!--
+Завершите функцию, которая получит входное число n такое, что n >= 10 и n <10000, затем:
+
+Просуммируйте все цифры числа n.
+Вычтите сумму из n, и это будет ваше новое n.
+Если новое n находится в списке ниже, верните связанный фрукт, в противном случае вернитесь к задаче 1.-->
