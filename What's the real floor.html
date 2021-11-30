@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>What's the real floor</title>
+</head>
+<body bgcolor="#2b2b2b">
+<script>
+
+    function getRealFloor(n) {
+        if (n <= 0) {
+            return n;
+        } else if (n > 0 && n < 13) {
+            return n - 1;
+        } else return n - 2;
+    }
+    console.log('now floor is  1 =>  ' + getRealFloor(-3));
+    console.log('now floor is  2 =>  ' + getRealFloor(0));
+    console.log('now floor is  3 =>  ' + getRealFloor(1));
+    console.log('now floor is  4 =>  ' + getRealFloor(5));
+    console.log('now floor is  5 =>  ' + getRealFloor(15));
+
+</script>
+</body>
+</html>
+
+<!--
+При замене первого этажа первым этажом и снятии
+13-го этажа номера перемещаются вниз,
+чтобы занять их место. В случае выше 13
+они движутся вниз на два, потому что под ними есть два пропущенных числа.
+
+Подвалы (негативы) остаются такими же, как и универсальный уровень.
+
+1  =>  0
+0  =>  0
+5  =>  4
+15  =>  13
+-3  =>  -3
+
+-->
