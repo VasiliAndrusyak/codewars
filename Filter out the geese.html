@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Filter out the geese</title>
+</head>
+<body bgcolor="#2b2b2b">
+<script>
+
+
+    const geese = {"African":1, "Roman Tufted":1, "Toulouse":1, "Pilgrim":1, "Steinbacher":1};
+    function gooseFilter(birds) {
+
+        console.log(birds.filter(item => !geese[item]));
+    };
+
+    gooseFilter(["Mallard", "Hook Bill", "African", "Crested", "Pilgrim", "Toulouse", "Blue Swedish"]);
+
+    // ["Mallard", "Hook Bill", "Crested", "Blue Swedish"]
+
+    // return an array containing all of the strings in the input array
+    // except those that match strings in geese
+
+
+
+
+
+</script>
+</body>
+</html>
