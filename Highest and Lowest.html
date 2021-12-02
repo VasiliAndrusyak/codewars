@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Highest and Lowest</title>
+</head>
+<body bgcolor="#2b2b2b">
+<script>
+
+
+   /* function highAndLow(numbers) {
+
+        let num = numbers.split(' ');
+        let muss = [];
+        for (let i = 0; i < num.length; i++) {
+            let char = parseInt(num[i]);
+            muss.push(char);
+        }
+        muss.sort(compareNumeric);
+        let res1 = muss[0];
+        muss.reverse();
+        let res2 = muss[0];
+        let result = res2 + ' ' + res1;
+        console.log(result);
+    }
+
+    function compareNumeric(a, b) {
+        if (a > b) return 1;
+        if (a == b) return 0;
+        if (a < b) return -1;
+    }
+*/
+    highAndLow("8 3 -5 42 -1 0 0 -9 4 7 4 -4");
+
+    function highAndLow(numbers){
+        numbers = numbers.split(' ').map(Number);
+        // return Math.max.apply(0, numbers) + ' ' + Math.min.apply(0, numbers);
+        console.log(Math.max.apply(0, numbers) + ' ' + Math.min.apply(0, numbers));
+    }
+
+</script>
+</body>
+</html>
