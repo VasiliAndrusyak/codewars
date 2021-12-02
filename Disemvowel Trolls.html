@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Disemvowel Trolls</title>
+</head>
+<body>
+<script>
+
+
+     //const chars = {'a': 1, 'e': 1, 'i': 1, 'o': 1, 'u': 1, 'y': 1,'A': 1, 'E': 1, 'I': 1, 'O': 1, 'U': 1, 'Y': 1 };
+     // const chars = ['a', 'e', 'i', 'o', 'u', 'y','A', 'E', 'I', 'O', 'U', 'Y' ];
+
+/*     function disemvowel(str) {
+        const chars = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U', 'n\''];
+         //  str = str.replace(/\s+/g, '');
+         let ch = str.split('');
+         // let mas = (ch.filter(item => !chars[item]));
+
+         let myStr = ((ch.filter(item => !chars.includes(item))));
+         console.log(myStr.join(''));
+     }*/
+
+
+          function disemvowel(str) {
+
+          // return str.replace(/[aeiou]/gi, '');
+          console.log( str.replace(/[aeiou]/gi, ''));
+     }
+
+
+     disemvowel('This website is for losers LOL!');
+     disemvowel('No offense but,\\nYour writing is among the worst I\'ve ever read');
+
+
+   /* let cities = ['лонДон', 'МанЧЕСТёр', 'БиРминГЕМ', 'лиВЕРпуЛЬ'];
+    for(let i = 0; i < cities.length; i++) {
+        let input = cities[i].toLowerCase().slice(1);
+        let simb = cities[i].toUpperCase().slice(0, cities.length -3);
+        let res = simb + input;
+        console.log(res);
+    }*/
+
+
+   /* let stations = ['MAN675847583748sjt567654;Manchester Piccadilly',
+        'GNF576746573fhdg4737dh4;Greenfield',
+        'LIV5hg65hd737456236dch46dg4;Liverpool Lime Street',
+        'SYB4f65hf75f736463;Stalybridge',
+        'HUD5767ghtyfyr4536dh45dg45dg3;Huddersfield'];
+
+    for (let i = 0; i < stations.length; i++) {
+        let input = stations[i].slice(0, 3);
+        let input3 = stations[i].slice(stations[i].indexOf(';') + 1);
+        let result = input;
+        let result3 = input3;
+        console.log(result + " : " + result3);
+    }*/
+
+
+
+
+</script>
+</body>
+</html>
