@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ASCII Total</title>
+</head>
+<body>
+<script>
+
+    function uniTotal(str) {
+
+       /* str = str.replace(/\s+/g, '');
+        let muss = (str.split(''));
+        let muss2 = [];
+        for (let i = 0; i < muss.length; i++) {
+            muss2.push(muss[i].charCodeAt(0));
+        }
+        let res = muss2.reduce((a, b) => a + b, 0);
+        console.log(res);
+        return res;*/
+
+        let sum = 0;
+        for (let i = 0; i < str.length; ++i) {
+            sum += str[i].charCodeAt(0);
+        }
+        return sum;
+    }
+
+
+    uniTotal("Mary Had A Little Lamb");
+    uniTotal('aaa');
+
+</script>
+</body>
+</html>
