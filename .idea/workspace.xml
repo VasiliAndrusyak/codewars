@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96ba0caf-05fd-4c93-92b4-c40b2ee9d24e" name="Default Changelist" comment="test">
+      <change afterPath="$PROJECT_DIR$/Alphabetical Grid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculate BMI.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For Twins 2 Math operations.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reversed Strings.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reversed Strings.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20xWHg6ybilZ7cyyemdoR3sbucl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96ba0caf-05fd-4c93-92b4-c40b2ee9d24e" name="Default Changelist" comment="" />
+      <created>1636986632905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636986632905</updated>
+      <workItem from="1636986635366" duration="10831000" />
+      <workItem from="1637014611650" duration="109000" />
+      <workItem from="1637524065183" duration="3681000" />
+      <workItem from="1637604299389" duration="9000" />
+      <workItem from="1637875374945" duration="2631000" />
+      <workItem from="1637953547864" duration="1740000" />
+      <workItem from="1637994005460" duration="20977000" />
+      <workItem from="1638301028656" duration="6084000" />
+      <workItem from="1638340574829" duration="30934000" />
+      <workItem from="1638428784135" duration="27600000" />
+      <workItem from="1638468466401" duration="2966000" />
+      <workItem from="1638554996064" duration="7255000" />
+      <workItem from="1638686885514" duration="2345000" />
+      <workItem from="1638714842034" duration="974000" />
+      <workItem from="1638722526881" duration="1026000" />
+      <workItem from="1638780040922" duration="596000" />
+      <workItem from="1638802134566" duration="9436000" />
+      <workItem from="1638903751110" duration="3323000" />
+      <workItem from="1638986424966" duration="1578000" />
+      <workItem from="1639076254237" duration="2085000" />
+      <workItem from="1639120432869" duration="8000" />
+      <workItem from="1639128793559" duration="1001000" />
+      <workItem from="1639334676826" duration="535000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1636986995002</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636986995002</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="198" key="#Inspections" timestamp="1636998006235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1636998006235" />
+    <state x="845" y="383" key="#Notifications" timestamp="1636988501906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="845" y="383" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1636988501906" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1636987060652">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1636987060652" />
+  </component>
+</project>
