@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96ba0caf-05fd-4c93-92b4-c40b2ee9d24e" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/Vowel remover.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="96ba0caf-05fd-4c93-92b4-c40b2ee9d24e" name="Default Changelist" comment="test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +91,7 @@
       <workItem from="1639334676826" duration="535000" />
       <workItem from="1639426219168" duration="37000" />
       <workItem from="1639426672254" duration="349000" />
-      <workItem from="1639461878556" duration="4694000" />
+      <workItem from="1639461878556" duration="5042000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1636986995002</created>
