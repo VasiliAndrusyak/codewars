@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Abbreviate a Two Word Name</title>
+</head>
+<body>
+<script>
+
+
+    function abbrevName(name) {
+        let str = name.split(' ');
+        return (str[0].slice(0, 1) + '.' + str[1].slice(0, 1)).toUpperCase();
+    }
+
+    console.log(abbrevName('Sam Harris'));
+
+</script>
+</body>
+</html>
