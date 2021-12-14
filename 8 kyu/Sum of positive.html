@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sum of positive</title>
+</head>
+<body>
+<script>
+
+    function isPrime(num) {
+        for (let i = 0; num > i; i++) {
+            if (num <= 0) {
+                return false;
+            }
+        }
+        return num >= 0;
+    }
+
+    function positiveSum(arr) {
+        let newArr = arr.filter(isPrime);
+        if (newArr.length === 0) {
+            return 0;
+        } else {
+            return newArr.reduce(function (a, b) {
+                return a + b;
+            });
+        }
+    }
+
+
+    console.log(positiveSum([-1, 2, 3, 4, 5,]));
+    console.log(positiveSum([-1, -2, -3, -4, -5]));
+
+
+   /* function positiveSum(arr) {
+        return arr.reduce((a,b)=> a + (b > 0 ? b : 0),0);
+    }*/
+
+</script>
+</body>
+</html>
