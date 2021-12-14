@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96ba0caf-05fd-4c93-92b4-c40b2ee9d24e" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/Alphabetical Grid.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculate BMI.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For Twins 2 Math operations.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vowel remover.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reversed Strings.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reversed Strings.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +92,9 @@
       <workItem from="1639120432869" duration="8000" />
       <workItem from="1639128793559" duration="1001000" />
       <workItem from="1639334676826" duration="535000" />
+      <workItem from="1639426219168" duration="37000" />
+      <workItem from="1639426672254" duration="349000" />
+      <workItem from="1639461878556" duration="4694000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1636986995002</created>

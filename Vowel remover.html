@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vowel remover</title>
+</head>
+<body>
+<script>
+
+
+    function shortcut(string) {
+        let newStr = string.replace(/[aeiou]/gi,'');
+        return newStr;
+    }
+
+    /*  function replacer(match, p1, p2, p3, offset, string) {
+          // p1 - не цифры, p2 - цифры, p3 - не буквы и не цифры
+          return [p1, p2, p3].join(' - ');
+      }
+        let newString = 'abc12345#$*%'.replace(/([^\d]*)(\d*)([^\w]*)/, replacer);*/
+
+    // console.log(newString);
+    console.log(shortcut('codewars'));
+    console.log(shortcut('goodbye'));
+</script>
+</body>
+</html>
