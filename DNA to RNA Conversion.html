@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DNA to RNA Conversion</title>
+</head>
+<body>
+<script>
+
+    function DNAtoRNA(dna) {
+        // create a function which returns an RNA sequence from the given DNA sequence
+
+
+        let newDna = dna.replace(/T/gi,'U');
+        return newDna;
+    }
+
+
+    console.log(DNAtoRNA('GCAT'));
+    console.log(DNAtoRNA('TTTT'));
+    console.log(DNAtoRNA(''));
+
+</script>
+</body>
+</html>
