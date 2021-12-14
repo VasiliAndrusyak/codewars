@@ -26,8 +26,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96ba0caf-05fd-4c93-92b4-c40b2ee9d24e" name="Default Changelist" comment="test">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/How much water do I need.html" beforeDir="false" afterPath="$PROJECT_DIR$/How much water do I need.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASCII Total.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/ASCII Total.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abbreviate a Two Word Name.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Abbreviate a Two Word Name.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alphabetical Grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Alphabetical Grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic variable assignment.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Basic variable assignment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Beginner Series 3 Sum of Numbers.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Beginner Series 3 Sum of Numbers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculate BMI.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Calculate BMI.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Counting sheep....html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Counting sheep....html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DNA to RNA Conversion.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/DNA to RNA Conversion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Disemvowel Trolls.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Disemvowel Trolls.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drink about.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Drink about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Even or Odd.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Even or Odd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filter out the geese.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Filter out the geese.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Find the Remainder.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Find the Remainder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/For Twins 2 Math operations.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/For Twins 2 Math operations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals  Return.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Fundamentals  Return.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Highest and Lowest.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Highest and Lowest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/How much water do I need.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/How much water do I need.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keep Hydrated.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Keep Hydrated.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multiples of 3 or 5.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Multiples of 3 or 5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opposite number.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Opposite number.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reversed Strings.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Reversed Strings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Squash the bugs.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Squash the bugs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String repeat.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/String repeat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subtract the sum.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Subtract the sum.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch it Up!.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Switch it Up!.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vowel remover.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/Vowel remover.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/What's the real floor.html" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu/What's the real floor.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +127,7 @@
       <workItem from="1639426672254" duration="349000" />
       <workItem from="1639461878556" duration="5418000" />
       <workItem from="1639473828539" duration="10348000" />
-      <workItem from="1639492403003" duration="2329000" />
+      <workItem from="1639492403003" duration="2699000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1636986995002</created>
