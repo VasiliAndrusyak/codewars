@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Student's Final Grade</title>
+</head>
+<body>
+<script>
+
+
+    let finagle;
+    function finalGrade (exam, projects) {
+
+        if(exam > 90 || projects > 10){
+            finagle = 100;
+            return finagle;
+        }else if(exam >= 75 && exam < 90 && projects >= 5 && projects < 10 ){
+            finagle = 90;
+            return finagle;
+        }else if (exam >= 50 && exam < 90 && projects >=2 && projects != 0){
+            finagle = 75;
+            return finagle;
+        }else return 0;
+    }
+
+
+
+    console.log(finalGrade(100,12));
+    console.log(finalGrade(99,0));
+    console.log(finalGrade(10,15));
+    console.log(finalGrade(85,5));
+    console.log(finalGrade(55, 3));
+    console.log(finalGrade(55, 0));
+    console.log(finalGrade(20, 2));
+    console.log(finalGrade(50, 2));
+    console.log(finalGrade(82, 10));
+
+
+    /*100, 12 --> 100
+    99, 0 --> 100
+    10, 15 --> 100
+
+    85, 5 --> 90
+
+    55, 3 --> 75
+
+    55, 0 --> 0
+    20, 2 --> 0*/
+
+
+
+</script>
+</body>
+</html>
