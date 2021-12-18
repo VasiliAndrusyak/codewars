@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Correct the mistakes of the character recognition software</title>
+</head>
+<body>
+<script>
+
+    function correct(string) {
+         let result = string.replace(/0/g,'O').replace(/5/g,'S').replace(/1/g,'I');
+        console.log(result);
+    }
+    correct('L0ND0N');
+    correct('DUBL1N');
+    correct('51NGAP0RE');
+    correct('BUDAPE5T');
+    correct('PAR15');
+
+    // correct = s => s.replace(/0/g,'O').replace(/1/g,'I').replace(/5/g,'S')
+
+
+</script>
+</body>
+</html>
