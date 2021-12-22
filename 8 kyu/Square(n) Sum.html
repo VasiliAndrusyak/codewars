@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Square(n) Sum</title>
+</head>
+<body>
+<script>
+
+
+
+
+
+    function squareSum(numbers){
+
+        return  numbers.reduce(function (sum,current) {
+            return sum + current**2;
+
+        },0)
+
+    }
+
+    console.log(squareSum([1,2]));
+
+</script>
+</body>
+</html>
